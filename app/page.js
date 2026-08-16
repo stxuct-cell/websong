@@ -172,7 +172,7 @@ export default function Page() {
         fontFamily: '"Black Ops One", cursive', fontSize: 'clamp(3rem, 8vw, 7rem)', fontWeight: '400', 
         letterSpacing: '8px', textAlign: 'center', pointerEvents: 'none', textShadow: '0 15px 30px rgba(0, 0, 0, 0.8)'
       }}>
-        ನಮ್ಮ ಬೆಂಗಳೂರು
+        NAMMA BENGALURU
       </h1>
       
       {/* OFF-SCREEN YOUTUBE PLAYER */}
